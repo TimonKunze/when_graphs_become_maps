@@ -1,0 +1,5 @@
+DirectoryIndex index.html
+
+# <Files "save_data.php">
+#     Deny from all
+# </Files>
