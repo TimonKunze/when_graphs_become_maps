@@ -1,4 +1,4 @@
-# Code and data repository for the behavioral Experiment "When Graphs become Maps" 
+# Code and data for the behavioral "When Graphs become Maps" experiment
 
 Code and materials for a behavioral experiment on graph learning, graph layout, and spatial congruency.
 
